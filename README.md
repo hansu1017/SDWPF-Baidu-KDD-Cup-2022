@@ -35,7 +35,7 @@
 ```
 
 
-## **4. Instructions  **
+## **3. Instructions**
 - Codes for training models are in the train/ file including three kinds of models and a jupyter to generate training sets.
 The TsModel/ file contains the training code of the CNN model with multichannel time series. The CNN/ file contains three 
 training jupyters of the CNN model with spatial-temporal information using three different datasets. The GRU/ file includes
@@ -43,7 +43,7 @@ three jupyters of the GRU model with spatial-temporal information using three di
 - The final score in phase 3 can be reproduced by evaluating the codes in inference/ file, which is same as the final submitted 
 file.
 
-## **5. Our Framework**
+## **4. Our Framework**
 Firstly, five variables including Wspd, Pab1, Etmp, Itmp, Patv and spatial distribution information were selected from 
 all the available information according to our multiple attempts. Secondly, we generated sequence features from 
 the five variables and obtained three small datasets by random sampling and outlier processing. 
