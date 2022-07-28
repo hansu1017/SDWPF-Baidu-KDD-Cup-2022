@@ -14,15 +14,15 @@
 ├── README.md
 ├── train
 │   ├── TSModel
- |       ├──TSModel.ipynb
+|       ├──TSModel.ipynb
 │   ├── CNN
- |       ├──CNN_nor.ipynb
- |       ├──CNN_42.ipynb
- |       ├──CNN_2022.ipynb
+|       ├──CNN_nor.ipynb
+|       ├──CNN_42.ipynb
+|       ├──CNN_2022.ipynb
 │   ├── GRU
- |       ├──GRU_nor.ipynb
- |       ├──GRU_42.ipynb
- |       ├──GRU_2022.ipynb
+|       ├──GRU_nor.ipynb
+|       ├──GRU_42.ipynb
+|       ├──GRU_2022.ipynb
 ├── inference
 │   ├── model
 │   ├── Common.py
